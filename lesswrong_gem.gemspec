@@ -1,13 +1,13 @@
 Gem::Specification.new do |s|
   s.name        = 'lesswrong'
-  s.version     = '0.0.1'
+  s.version     = '0.0.2'
   s.date        = '2016-09-11'
   s.summary     = 'Navigate the LW sequences from the command line'
   s.description = "Allows the user to quickly navigate through the LW sequences from the command line"
   s.authors     = ["Noah Milstein"]
   s.email       = 'noahamilstein@gmail.com'
   s.files       = ["lib/lesswrong_gem.rb"]
-  s.executables << 'lesswrong_exec'
+  s.executables << 'lesswrong'
   s.homepage    =
     'https://github.com/mihaowei/lesswrong'
   s.license       = 'MIT'

@@ -1,3 +1,0 @@
-#!/usr/bin/env ruby
-
-require 'lesswrong_gem.rb'
