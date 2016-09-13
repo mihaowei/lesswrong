@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.files       = ["lib/lesswrong.rb"]
   s.executables << 'lesswrong'
   s.homepage    =
-    'https://github.com/mihaowei/lesswrong'
+    'https://github.com/noahmilstein/lesswrong'
   s.license       = 'MIT'
   s.add_development_dependency "bundler", "~> 1.12"
   s.add_development_dependency "rspec", "~> 3.4"
